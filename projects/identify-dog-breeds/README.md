@@ -67,8 +67,8 @@ python check_images.py --dir uploaded_images/ --arch resnet --dogfile dognames.t
 ### Running Batch Processing
 Instead of running individual commands, you can execute all three models using:
 ```sh
-bash run_models_batch.sh
-bash run_models_batch_uploaded.sh
+sh run_models_batch.sh
+sh run_models_batch_uploaded.sh
 ```
 
 ## Example Output
